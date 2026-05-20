@@ -1,0 +1,7 @@
+segment,customers,avg_recency_days,avg_orders,avg_spend,total_revenue
+"At Risk",35888,400,1.00,139.06,4990588.06
+"New Customers",18430,60,1.00,135.75,2501786.52
+Champions,8469,126,1.00,265.56,2249062.61
+"Potential Loyalists",10472,221,1.00,189.32,1982534.14
+"Loyal Customers",13529,146,1.00,65.39,884645.83
+"Needs Attention",9690,268,1.00,63.25,612880.95
