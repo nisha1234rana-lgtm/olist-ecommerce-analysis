@@ -6,6 +6,8 @@
 
 **Dataset:** [Olist Brazilian E-Commerce Public Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) · Real transaction data 2016–2018
 
+![Dashboard Preview](dashboard_preview.png)
+
 ---
 
 ## 📌 Project Overview
