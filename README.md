@@ -1,6 +1,6 @@
 # 🛒 Olist Brazilian E-Commerce Intelligence Platform
 
-> End-to-end Data Analysis & Business Intelligence project analyzing **99,441 real orders** from Brazil's largest e-commerce marketplace — uncovering growth patterns, customer behaviour, delivery performance, and strategic business insights.
+> End-to-end Data Analysis & Business Intelligence project analyzing **99,441 real orders** from Brazil's largest e-commerce marketplace — uncovering growth patterns, customer behaviour, delivery performance, and strategic business insights. 
 
 **Tools:** MySQL · Power BI · Python · Scikit-learn · GitHub
 
